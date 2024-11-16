@@ -31,7 +31,7 @@ function init() {
 			container.addChild(heart);
 		}
 
-  var text = new createjs.Text("the longer I'm with you\nthe more I love you", "bold 24px Arial", "rgb(255, 170, 213)");
+  var text = new createjs.Text("To my dearest iea, I’m so proud of you and everything you’re doing. Your hard work and dedication\n to your studies inspire me every day. Don’t forget to pause and appreciate how far you’ve come—\nyou're amazing! Keep going, love, because I believe in you always. ❤️\nAnd the longer I'm with you\nthe more I love you", "bold 24px Arial", "rgb(255, 170, 213)");
   text.textAlign = "center";
   text.x = w / 2;
   text.y = h / 2 - text.getMeasuredLineHeight();
