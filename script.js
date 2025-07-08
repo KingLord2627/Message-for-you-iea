@@ -31,7 +31,7 @@ function init() {
 			container.addChild(heart);
 		}
 
-  var text = new createjs.Text("To my dearest iea, I’m so proud of you and everything you’re doing. \nYour hard work and dedication to your studies inspire me every day. \nDon’t forget to pause and appreciate how far you’ve come—\nyou're amazing! Keep going, hobby, because I believe in you always. ❤️\nAnd the longer we understand each other, the more I love you💗 \n\n\n - King 'L'", "bold 24px Arial", "rgb(255, 193, 224)");
+  var text = new createjs.Text("To my dearest honey bunch, I’m so proud of you and everything you’re doing. \nYour hard work and dedication to your work(Also studies too) inspire me every day. \nDon’t forget to pause and appreciate how far you’ve come—\nyou're amazing! Keep going, hobby, because I believe in you always. ❤️\nAnd the longer we understand each other, the more I love you💗 \n\n\n - Honey Bunch Sugar Plum", "bold 24px Arial", "rgb(255, 193, 224)");
   text.textAlign = "center";
   text.x = w / 2;
   text.y = h / 2 - text.getMeasuredLineHeight();
